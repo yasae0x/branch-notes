@@ -17,4 +17,13 @@
 // These values are not secret. Your data is protected by the sign-in and the
 // database rules in firestore.rules.
 
-window.BRANCH_NOTES_FIREBASE = null;
+window.BRANCH_NOTES_FIREBASE = 
+  {
+  apiKey: "AIzaSyBBnWt-RJJUjFmcNsX3rnsA0dwgsBZ4XIE",
+  authDomain: "branch-notes.firebaseapp.com",
+  projectId: "branch-notes",
+  storageBucket: "branch-notes.firebasestorage.app",
+  messagingSenderId: "841293038413",
+  appId: "1:841293038413:web:346a51d81525188839ed04",
+  measurementId: "G-H6HNT4FGHM"
+};
