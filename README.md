@@ -7,6 +7,7 @@ A personal mind-map notebook that runs entirely in your browser and installs on 
 ## Features
 
 - **Mind maps with smooth layout.** Branches glide into place when you add, move, collapse or undo.
+- **Collapse rings.** Every branch with sub-branches has a small ring beside it. Click it to fold the sub-branches away, and click again to bring them back. A filled ring means something is hidden; hover it to see how many.
 - **Toolbar on every branch:** style and color, text format (bold, italic, size, color), image, file attachments, link, connection arrow, comments, icons, priority, checkboxes.
 - **Images you can resize.** Drag the small square at the image's corner, or use the slider.
 - **Connection arrows** between any two boxes, with curves you shape by dragging handles, labels, and direction flip.

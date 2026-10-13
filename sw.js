@@ -1,6 +1,6 @@
 // Branch Notes service worker: keeps the app working offline.
 // Bump CACHE when you change index.html so installed copies pick up the new version.
-const CACHE = "branch-notes-v4";
+const CACHE = "branch-notes-v5";
 const SHELL = [
   "./",
   "./index.html",
