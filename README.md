@@ -12,7 +12,10 @@ A personal mind-map notebook that runs entirely in your browser and installs on 
 - **Connection arrows** between any two boxes, with curves you shape by dragging handles, labels, and direction flip.
 - **Free boxes** that aren't attached to the central idea. Double-click empty space to add one.
 - **Long notes.** Every branch has its own note, with a full-screen editor and word count.
-- **20 themes,** including Terminal (green pixel screen), Classroom (chalkboard with a wooden frame), Notebook and Blueprint, plus 6 line styles.
+- **23 themes,** including Cosmos (a starry sky with parallax stars, planets and constellation lines), Neural (glowing neurons with signals running along the branches), Metro (subway lines and stations), Terminal (green pixel screen), Classroom (chalkboard with a wooden frame), Notebook and Blueprint, plus 9 line styles.
+- **Folders and search.** Group maps into folders such as "French", drag maps between them, and search every map title, branch and note.
+- **Drag branches anywhere.** A dragged branch stays connected to its parent; drop it on another branch to move it there.
+- **Full-screen canvas.** Hide either side panel with the buttons at the top.
 - **Backups.** Export every map, image and file to one `.json` file, and import it on another computer.
 - **Markdown export** and copy-as-outline.
 
